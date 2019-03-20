@@ -1,29 +1,7 @@
-# node-mongo-vue
+### express + mongodb +mongoose写后台接口实现增删改查
 
-## Project setup
-```
-npm install
-```
+### postman 测试接口成功
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 前端用vue+axios.js 获取API数据
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
